@@ -10,6 +10,8 @@ rm ~/.config/nvim
 mkdir ~/.config/nvim
 
 # save contents of nvim file to ~/.config/nvim
-mv lua ~/.config/nvim 
-mv init.lua ~/.config/nvim
-mv laz-lock.json ~/.config.json
+mv nvim-config/lua ~/.config/nvim 
+mv nvim/config/init.lua ~/.config/nvim
+mv nvim-config/laz-lock.json ~/.config.json
+
+echo "nvim installed :)"
