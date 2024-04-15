@@ -1,5 +1,5 @@
 # Pull git repo
-clone https://github.com/bengraham-B/nvim-config.git
+git clone https://github.com/bengraham-B/nvim-config.git
 
 
 
